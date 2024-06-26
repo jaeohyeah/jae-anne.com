@@ -663,6 +663,7 @@
   background-size: cover;
   background-image: url("public/whatsapp%20image%202024-06-26%20at%201.01.42%20am%20(1)-1500w.jpeg");
   background-position: center;
+  margin-top:30px;
 }
 .home-text-container {
   width: 45%;
