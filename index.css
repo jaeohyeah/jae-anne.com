@@ -723,6 +723,42 @@
   background-repeat: no-repeat;
   background-position: top;
 }
+.home-icon3 {
+  width: 195px;
+  height: 147px;
+  display: flex;
+  background-size: contain;
+  background-image: url("public/email-marketing-1500w.png");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home-icon4 {
+  width: 195px;
+  height: 147px;
+  display: flex;
+  background-size: contain;
+  background-image: url("public/email-marketing-1500w.png");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home-icon5 {
+  width: 195px;
+  height: 147px;
+  display: flex;
+  background-size: contain;
+  background-image: url("public/email-marketing-1500w.png");
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home-icon6 {
+  width: 195px;
+  height: 147px;
+  display: flex;
+  background-size: contain;
+  background-image: url("public/email-marketing-1500w.png");
+  background-repeat: no-repeat;
+  background-position: top;
+}
 .home-title2 {
   text-align: center;
   padding-top: var(--dl-space-space-doubleunit);
