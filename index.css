@@ -648,7 +648,7 @@
 .home-cta-btn3 {
   color: var(--dl-color-gray-white);
   width: 80%;
-  align-self: flex-start;
+  align-self: center;
   text-align: center;
   padding-top: var(--dl-space-space-doubleunit);
   border-width: 0px;
